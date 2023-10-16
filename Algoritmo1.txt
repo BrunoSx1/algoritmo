@@ -1,0 +1,18 @@
+Algoritmo Acordar
+
+1 - Abro os olhos.
+2 - Levanto da cama.
+3 - Coloco meu Chinelo.
+4 - Vou ao Banheiro.
+5 - Verifico se a porta está aberta.
+    1 - Entro no banheiro.
+    2 - Escovo meus dentes.
+    3 - Lavo o rosto.
+6 - Se a porta não estiver aberta.
+    1 - Coloco a chave.
+    2 - Giro a maçaneta.
+    3 - Abro a porta.
+7 - Vou até a cozinha.
+8 - Preparo meu café da manhã.
+9 - Lavo a louça.
+10 - Começo meu dia.
